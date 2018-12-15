@@ -1,0 +1,55 @@
+Where I stand I , Pi  or T 
+
+identify the gap 
+
+monitoring the progress for multi skill ...
+
+
+JESKO score
+
+Think in terms of I , T and Pi
+
+
+Keep your profile updated as the framework tool gets the info from the profile 
+
+ISRO 
+
+Open banking 
+
+
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+Anupam/Ajmal,
+As discussed with Ajmal, following is the requirements for the capstone project. 
+You will have to work on a peer to peer review application. Below are the high level requirements.
+Will send you a formal mail to you soon. Pls let me know if you have any issues about this problem statement:
+
+Peer Review Application Requirements:
+ 
+1. Upload list of participants(.csv format)
+2. Fetch participants list from Sharepoint
+3 Update the list from GUI
+4. Trainee to upload the review content/package to the application
+5. Trainee to provide a link to gitlab where he/she has uploaded the contents to be reviewed
+6. Reviewer to update review feedback in the application(granular status based on review line items and qualitative comments and final completion status(completed/incomplete) to be obtained based on line item status.
+7. Cannot be mutual review(A reviews B; B cannot review A).
+8. Reviewer and the trainee to be kept anonymous.
+9. Reviews to be assigned for multiple stages of the program independantly.
+10. Final status of completion to be obtained based on individual line item status of a particular content being reviewed.
+11. Mails to be triggered to the peer reviewer
+12. Certification eligibility to be determined based on reviews conducted by the trainee.
+13. Reports on who have completed the reviews should be generated as it is required as part of certification process.(Reviewing is mandatory to be certified).
+14. Application should provide API to provide number of reviews and restricted details about the review so that it can be used to check eligibility of a trainee for certification based on his review completion status. 
+
+1. CSV import in one component (empid, fname , lnamem, emailid )
+put into database 
+fetch from database 
+display in table
+
+
+mailer component 
+
+2. upload the zip file 
+download the zip file
+
